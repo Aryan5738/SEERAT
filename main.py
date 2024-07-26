@@ -38,7 +38,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.ibb.co/JtNcVyb/IMG-20240710-WA0051-1.jpg');
+    background-image: url('https://i.ibb.co/gvxrWhg/IMG-20240727-001613.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -122,7 +122,7 @@ body{
         <br />
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
-    <h3>Developer :SEERAT QUEEN</h3>
+    <h3>OWNER:- SEERAT X AYUSHI</h3>
     
 </div
     
